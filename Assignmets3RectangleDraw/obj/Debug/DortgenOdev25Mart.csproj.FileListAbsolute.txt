@@ -1,0 +1,8 @@
+c:\users\ibrahım\documents\visual studio 2015\Projects\DortgenOdev25Mart\DortgenOdev25Mart\bin\Debug\DortgenOdev25Mart.exe.config
+c:\users\ibrahım\documents\visual studio 2015\Projects\DortgenOdev25Mart\DortgenOdev25Mart\obj\Debug\DortgenOdev25Mart.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\bin\Debug\DortgenOdev25Mart.exe.config
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\obj\Debug\DortgenOdev25Mart.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\bin\Debug\DortgenOdev25Mart.exe
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\bin\Debug\DortgenOdev25Mart.pdb
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\obj\Debug\DortgenOdev25Mart.exe
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\DortgenOdev25Mart\DortgenOdev25Mart\obj\Debug\DortgenOdev25Mart.pdb
