@@ -1,0 +1,9 @@
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\bin\Debug\CSharpOkulOdev.exe.config
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\bin\Debug\CSharpOkulOdev.exe
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\bin\Debug\CSharpOkulOdev.pdb
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\obj\Debug\CSharpOkulOdev.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\obj\Debug\CSharpOkulOdev.exe
+C:\Users\Ibrahım\Desktop\Ibrahim\C# Projeler\CSharpOkulOdev\CSharpOkulOdev\obj\Debug\CSharpOkulOdev.pdb
+C:\Users\Ibrahım\Desktop\CSharpOkulOdev\CSharpOkulOdev\bin\Debug\CSharpOkulOdev.exe.config
+C:\Users\Ibrahım\Desktop\CSharpOkulOdev\CSharpOkulOdev\obj\Debug\CSharpOkulOdev.exe
+C:\Users\Ibrahım\Desktop\CSharpOkulOdev\CSharpOkulOdev\obj\Debug\CSharpOkulOdev.pdb
